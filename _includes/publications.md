@@ -55,7 +55,7 @@
 </div> -->
 
 
-* [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/pdf/2505.10846)
+* [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/pdf/2505.10846)  
   **Jiacheng Liang**, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang
   
 * [GraphRAG under Fire](https://arxiv.org/pdf/2501.14050)  
