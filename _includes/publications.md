@@ -66,11 +66,11 @@
   Empirical Methods in Natural Language Processing(EMNLP'25)
   
 * [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://arxiv.org/pdf/2410.19937)  
-  Tanqiu Jiang, Zian Wang, **Jiacheng Liang**, Changjiang Li, Yuhui Wang, Ting Wang  
+  Tanqiu Jiang, Zian Wang, **Jiacheng Liang**, Changjiang Li, Yuhui Wang, Ting Wang
   International Conference on Learning Representations (ICLR'25)
 
 * [Model Extraction Attacks Revisited](https://arxiv.org/pdf/2312.05386)  
-  **Jiacheng Liang**, Ren Pang, Changjiang Li, Ting Wang  
+  **Jiacheng Liang**, Ren Pang, Changjiang Li, Ting Wang
   Asia Conference on Computer and Communications Security (Asia CCS'24)
 
 * [Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](https://arxiv.org/pdf/2410.02220)  
