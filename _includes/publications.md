@@ -74,7 +74,7 @@
   Asia Conference on Computer and Communications Security (Asia CCS'24)
 
 * [Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](https://arxiv.org/pdf/2410.02220)  
-  **Jiacheng Liang\***, Xiaoqun Liu*, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi <br>
+  Xiaoqun Liu*, **Jiacheng Liang\***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi <br>
   Empirical Methods in Natural Language Processing(EMNLP'25)
 
 
