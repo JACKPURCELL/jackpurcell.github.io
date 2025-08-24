@@ -11,10 +11,12 @@ layout: homepage
   **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang
 
 * [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425)  
-  **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang
+  **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
+  Empirical Methods in Natural Language Processing(EMNLP'25)
 
 * [Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](https://arxiv.org/pdf/2410.02220)  
-  Xiaoqun Liu*, **Jiacheng Liang***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi
+  Xiaoqun Liu*, **Jiacheng Liang***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi <br>
+  Empirical Methods in Natural Language Processing(EMNLP'25)
 
 * [Cyber Defense Reinvented: Large Language Models as Threat Intelligence Copilots](https://arxiv.org/abs/2502.20791)  
 Xiaoqun Liu*, **Jiacheng Liang***, Qiben Yan,  Muchao Ye, Jinyuan Jia, Zhaohan Xi
