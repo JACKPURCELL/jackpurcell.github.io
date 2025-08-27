@@ -1,6 +1,6 @@
 ## Services
 
-Program Committee/Reviewer
+### Program Committee/Reviewer
 
 Neural Information Processing Systems (NeurIPS)
 International Conference on Machine Learning (ICML)
@@ -13,7 +13,7 @@ Transactions on Intelligent Systems and Technology (TIST)
 Cybersecurity Springer
 
 
-Internships
+### Internships
 
 2025.05 - 2025.10, Applied Scientist Intern at Amazon AGI Foundation - Responsible AI, Amazon, Boston. Advisor: Dr. Charith Peris, Dr. Yao Ma
 
