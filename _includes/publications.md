@@ -54,12 +54,12 @@
 </ol>
 </div> -->
 
+  
+* [GraphRAG under Fire](https://arxiv.org/pdf/2501.14050)  
+  **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang (IEEE S&P'26)
 
 * [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/pdf/2505.10846)  
   **Jiacheng Liang**, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang
-  
-* [GraphRAG under Fire](https://arxiv.org/pdf/2501.14050)  
-  **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang
 
 * [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425)  
   **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
