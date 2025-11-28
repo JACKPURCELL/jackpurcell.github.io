@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Stony Brook University, supervised by [Dr. Ting Wang](https://alps-lab.github.io/).
+I am a Ph.D. candidate at Stony Brook University, supervised by [Prof. Ting Wang](https://alps-lab.github.io/).
 
 
 ## Research Interests
