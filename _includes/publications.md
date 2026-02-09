@@ -62,6 +62,9 @@
 * [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/pdf/2505.10846)  
   **Jiacheng Liang**, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
 
+* [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://www.arxiv.org/abs/2602.04448)  
+  **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
+  
 * [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425)  
   **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
   Empirical Methods in Natural Language Processing(EMNLP'25)
