@@ -54,13 +54,20 @@
 </ol>
 </div> -->
 
+
+* [ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System](https://jackpurcell.github.io/_includes/ares.pdf)  
+  **Jiacheng Liang**, Yao Ma, Tharindu Kumarage, Satyapriya Krishna, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, Charith Peris   <br>
+  Annual Meeting of the Association for Computational Linguistics (ACL 2026)
+
+* [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://jackpurcell.github.io/_includes/autoran.pdf)  
+  **Jiacheng Liang**, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
+  Annual Meeting of the Association for Computational Linguistics (ACL 2026)
   
 * [GraphRAG under Fire](https://arxiv.org/pdf/2501.14050)  
   **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
   IEEE Symposium on Security and Privacy 2026 (IEEE S&P'26)
 
-* [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org/pdf/2505.10846)  
-  **Jiacheng Liang**, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
+
 
 * [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://www.arxiv.org/abs/2602.04448)  
   **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
