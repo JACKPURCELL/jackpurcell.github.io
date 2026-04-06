@@ -4,16 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Stony Brook University, supervised by [Prof. Ting Wang](https://alps-lab.github.io/).
+I am a Ph.D. candidate in Computer Science at Stony Brook University, advised by Prof. Ting Wang￼[Prof. Ting Wang](https://alps-lab.github.io/). My research focuses on LLM safety and trustworthy AI, with an emphasis on identifying security vulnerabilities and developing robust defenses.
 
+My work has been published at top-tier venues including IEEE S&P, ACL, EMNLP, ICLR, and AsiaCCS. I have also interned at Amazon AGI (Nova Responsible AI), where I developed adaptive red-teaming methods for RLHF systems.
 
-## Research Interests
+My research interests include LLM post-training and alignment, LLM agent safety, jailbreak and backdoor defense, MoE safety alignment, and RAG safety.
 
-My expertise is in ensuring the Safety and Trustworthiness of Large Language Models (LLMs). I work on identifying Security Challenges and developing Defensive Strategies to protect these models from adversarial threats. My recent work includes:
-* Security Challenges -- Investigate vulnerabilities in **LLM watermarking** and **GraphRAG**; **jailbreak reasoning model** and propose advanced methods to address these weaknesses.
-* Defensive Strategies -- Develop methods to **defend against backdoor attacks* (self-defense mechanisms in agent)** and **jailbreaking (Data curation when finetuning and KV eviction when inference)**.
-  
-In addition, I possess extensive expertise and a strong interest in **post-training, prompt engineering, inference optimization, LLM agents, and ensuring LLM alignment.**
+<img width="468" height="41" alt="image" src="https://github.com/user-attachments/assets/b35089ee-4475-4b0b-a39a-7a1f06973049" />
 
 
 <!-- ## News
