@@ -10,9 +10,6 @@ My work has been published at top-tier venues including IEEE S&P, ACL, EMNLP, IC
 
 My research interests include LLM post-training and alignment, LLM agent safety, jailbreak and backdoor defense, MoE safety alignment, and RAG safety.
 
-<img width="468" height="41" alt="image" src="https://github.com/user-attachments/assets/b35089ee-4475-4b0b-a39a-7a1f06973049" />
-
-
 <!-- ## News
 
 
