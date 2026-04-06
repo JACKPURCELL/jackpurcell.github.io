@@ -55,11 +55,11 @@
 </div> -->
 
 
-* [ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System](https://jackpurcell.github.io/_includes/ares.pdf)  
+* [ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System](https://jackpurcell.github.io/assets/ares.pdf)  
   **Jiacheng Liang**, Yao Ma, Tharindu Kumarage, Satyapriya Krishna, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, Charith Peris   <br>
   Annual Meeting of the Association for Computational Linguistics (ACL 2026)
 
-* [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://jackpurcell.github.io/_includes/autoran.pdf)  
+* [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://jackpurcell.github.io/assets/autoran.pdf)  
   **Jiacheng Liang**, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
   Annual Meeting of the Association for Computational Linguistics (ACL 2026)
   
