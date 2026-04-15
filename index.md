@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Computer Science at Stony Brook University, advised by
 
 My work has been published at top-tier venues including IEEE S&P, ACL, EMNLP, ICLR, and AsiaCCS. I have also interned at Amazon AGI (Nova Responsible AI), where I developed adaptive red-teaming methods for RLHF systems.
 
-My research interests include LLM post-training and alignment, LLM agent safety, jailbreak and backdoor defense, MoE safety alignment, and RAG safety.
+My research interests include LLM post-training and safety alignment, LLM agent safety, LLM deployment security, jailbreak and backdoor defense, and RAG safety.
 
 <!-- ## News
 
