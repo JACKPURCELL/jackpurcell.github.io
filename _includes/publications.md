@@ -1,6 +1,6 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications ([Full List](site._includes.full-publications.md))</h2> -->
 
-## Recent Publications ([Full List]({{ site.baseurl }}/full-publications))
+## Selected Publications ([Full List](https://scholar.google.com/citations?user=Qsp7ts0AAAAJ))
 
 <!-- 
 <div class="publications">
@@ -67,7 +67,8 @@
   **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
   IEEE Symposium on Security and Privacy 2026 (IEEE S&P'26)
 
-
+* [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/abs/2602.16901)  
+  Tanqiu Jiang, Yuhui Wang, **Jiacheng Liang**, Ting Wang  <br>
 
 * [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://www.arxiv.org/abs/2602.04448)  
   **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
@@ -76,10 +77,6 @@
   **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
   Empirical Methods in Natural Language Processing(EMNLP'25)
   
-* [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://arxiv.org/pdf/2410.19937)  
-  Tanqiu Jiang, Zian Wang, **Jiacheng Liang**, Changjiang Li, Yuhui Wang, Ting Wang <br>
-  International Conference on Learning Representations (ICLR'25)
-
 * [Model Extraction Attacks Revisited](https://arxiv.org/pdf/2312.05386)  
   **Jiacheng Liang**, Ren Pang, Changjiang Li, Ting Wang <br>
   Asia Conference on Computer and Communications Security (Asia CCS'24)
