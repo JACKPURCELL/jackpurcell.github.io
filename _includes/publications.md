@@ -68,7 +68,7 @@
   IEEE Symposium on Security and Privacy 2026 (IEEE S&P'26)
 
 * [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/abs/2602.16901)  
-  Tanqiu Jiang, Yuhui Wang, **Jiacheng Liang**, Ting Wang  (ICML'26) <br>
+  Tanqiu Jiang, Yuhui Wang, **Jiacheng Liang**, Ting Wang  (ICML 2026) <br>
 
 * [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://www.arxiv.org/abs/2602.04448)  
   **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
