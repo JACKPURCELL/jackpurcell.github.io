@@ -71,7 +71,7 @@
   Tanqiu Jiang, Yuhui Wang, **Jiacheng Liang**, Ting Wang  (ICML 2026) <br>
 
 * [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://www.arxiv.org/abs/2602.04448)  
-  **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
+  **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang (EMNLP 2026) <br>
   
 * [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425)  
   **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
