@@ -85,5 +85,7 @@
   Xiaoqun Liu*, **Jiacheng Liang\***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi <br>
   Empirical Methods in Natural Language Processing(EMNLP'25)
 
+* [LaCache: Robust Semantic Caching for LLM Serving](https://arxiv.org/pdf/2608.01718)  
+  **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
 
 
