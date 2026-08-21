@@ -65,25 +65,26 @@
   
 * [GraphRAG under Fire](https://arxiv.org/pdf/2501.14050)  
   **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
-  IEEE Symposium on Security and Privacy 2026 (IEEE S&P'26)
+  IEEE Symposium on Security and Privacy 2026 (IEEE S&P 2026)
 
 * [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/abs/2602.16901)  
   Tanqiu Jiang, Yuhui Wang, **Jiacheng Liang**, Ting Wang  (ICML 2026) <br>
 
 * [RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://www.arxiv.org/abs/2602.04448)  
-  **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang (EMNLP 2026) <br>
+  **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang  <br>
+   Empirical Methods in Natural Language Processing (EMNLP 2026)
   
 * [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425)  
   **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
-  Empirical Methods in Natural Language Processing(EMNLP'25)
+  Empirical Methods in Natural Language Processing (EMNLP 2025)
   
 * [Model Extraction Attacks Revisited](https://arxiv.org/pdf/2312.05386)  
   **Jiacheng Liang**, Ren Pang, Changjiang Li, Ting Wang <br>
-  Asia Conference on Computer and Communications Security (Asia CCS'24)
+  Asia Conference on Computer and Communications Security (Asia CCS 2024)
 
 * [Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](https://arxiv.org/pdf/2410.02220)  
   Xiaoqun Liu*, **Jiacheng Liang\***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi <br>
-  Empirical Methods in Natural Language Processing(EMNLP'25)
+  Empirical Methods in Natural Language Processing(EMNLP 2025)
 
 * [LaCache: Robust Semantic Caching for LLM Serving](https://arxiv.org/pdf/2608.01718)  
   **Jiacheng Liang**, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
