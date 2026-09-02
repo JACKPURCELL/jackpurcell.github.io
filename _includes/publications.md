@@ -58,11 +58,6 @@
 .pub-filter-btn.is-empty { opacity: 0.35; }
 .pub-filter-btn .pub-count { font-weight: 500; opacity: 0.75; }
 
-.pub-filter-note {
-  font-size: 0.75rem;
-  color: #9aa3ad;
-  margin: 10px 0 16px 0;
-}
 .pub-empty {
   font-size: 0.85rem;
   color: #9aa3ad;
@@ -71,7 +66,7 @@
 }
 .pub-empty[hidden] { display: none; }
 
-.pub-list { list-style: none; padding-left: 0; margin: 0; }
+.pub-list { list-style: none; padding-left: 0; margin: 16px 0 0 0; }
 .pub-item { margin: 0 0 18px 0; padding-left: 1.1em; text-indent: -1.1em; }
 .pub-item::before { content: "\2022"; padding-right: 0.6em; color: #b3bac2; }
 .pub-item.is-hidden { display: none; }
@@ -114,7 +109,6 @@
   .pub-filter-btn.is-active,
   .pub-badge.is-matched { color: #1b1c24; }
   .pub-toolbar-label,
-  .pub-filter-note,
   .pub-empty { color: #7d838f; }
   .pub-item::before { color: #5b606c; }
 }
@@ -141,7 +135,6 @@
   <button type="button" class="pub-filter-btn t-bench" data-topic="bench">Benchmarking <span class="pub-count"></span></button>
 </div>
 
-<p class="pub-filter-note">* denotes equal contribution.</p>
 <p class="pub-empty" id="pub-empty" hidden>No publications match this combination.</p>
 
 <ul class="pub-list">
