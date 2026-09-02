@@ -15,6 +15,9 @@ Cybersecurity Springer <br>
 
 ### Internships
 
-2025.05 - 2025.10, Applied Scientist Intern at Amazon AGI Foundation - Responsible AI, Amazon, Boston.  <br>
+2026.06 - Present, Applied Scientist Intern at Prime Video & Amazon MGM Studios, Amazon, Seattle. <br>
+Topic: Reinforcement learning for multi-intent recommendation (Intent-Q)
+
+2025.05 - 2025.10, Applied Scientist Intern at Amazon AGI Foundation - Nova Responsible AI, Amazon, Boston. <br>
 Advisor: Dr. Charith Peris, Dr. Yao Ma
 

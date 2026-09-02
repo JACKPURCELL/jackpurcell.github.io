@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. candidate in Computer Science at Stony Brook University, advised by￼[Prof. Ting Wang](https://alps-lab.github.io/). My research focuses on LLM safety and trustworthy AI, with an emphasis on identifying security vulnerabilities and developing robust defenses.
 
-My work has been published at top-tier venues including IEEE S&P, ACL, EMNLP, ICLR, and AsiaCCS. I have also interned at Amazon AGI (Nova Responsible AI), where I developed adaptive red-teaming methods for RLHF systems.
+My work has been published at top-tier venues including IEEE S&P, ACM CCS, ACL, EMNLP, ICML, ICLR, and AsiaCCS. I am currently an Applied Scientist Intern at Prime Video & Amazon MGM Studios, working on reinforcement learning for multi-intent recommendation. Previously, I interned at Amazon AGI (Nova Responsible AI), where I developed adaptive red-teaming methods for RLHF systems.
 
 My research interests include LLM post-training and safety alignment, LLM agent safety, LLM deployment security, jailbreak and backdoor defense, and RAG safety.
 
