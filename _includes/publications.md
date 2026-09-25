@@ -139,6 +139,14 @@
 
 <ul class="pub-list">
 
+<li class="pub-item" data-role="first" data-topics="serving defense">
+<a href="https://arxiv.org/pdf/2608.01718">LaCache: Robust Semantic Caching for LLM Serving</a>
+<span class="pub-authors"><strong>Jiacheng Liang</strong>, Yuhui Wang, Tanqiu Jiang, Ting Wang</span>
+<span class="pub-venue">Neural Information Processing Systems (NeurIPS 2026)</span>
+<span class="pub-badges"><span class="pub-badge t-serving" data-topic="serving">LLM Serving</span><span class="pub-badge t-defense" data-topic="defense">Safety Defense</span></span>
+</li>
+
+
 <li class="pub-item" data-role="first" data-topics="align redteam">
 <a href="https://jackpurcell.github.io/assets/ares.pdf">ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System</a>
 <span class="pub-authors"><strong>Jiacheng Liang</strong>, Yao Ma, Tharindu Kumarage, Satyapriya Krishna, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, Charith Peris</span>
@@ -202,11 +210,6 @@
 <span class="pub-badges"><span class="pub-badge t-align" data-topic="align">Alignment &amp; Post-Training</span><span class="pub-badge t-defense" data-topic="defense">Safety Defense</span></span>
 </li>
 
-<li class="pub-item" data-role="first" data-topics="serving defense">
-<a href="https://arxiv.org/pdf/2608.01718">LaCache: Robust Semantic Caching for LLM Serving</a>
-<span class="pub-authors"><strong>Jiacheng Liang</strong>, Yuhui Wang, Tanqiu Jiang, Ting Wang</span>
-<span class="pub-badges"><span class="pub-badge t-serving" data-topic="serving">LLM Serving</span><span class="pub-badge t-defense" data-topic="defense">Safety Defense</span></span>
-</li>
 
 </ul>
 
